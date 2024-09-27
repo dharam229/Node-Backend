@@ -1,0 +1,11 @@
+module.exports = {
+	clientUrl: "http://localhost:5000/", 
+	webUrl: "http://localhost:3000/", 
+	username:'user@gmail.com' , 
+	password:'user@123', 
+	host:'smtp.gmail.com', 
+	port:465, 
+	fromemail:"user@gmail.com",
+	service :"gmail",
+	secure : true
+};
